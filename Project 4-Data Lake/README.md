@@ -10,7 +10,7 @@ The aim of this project is to create an ETL pipeline using the data stored in S3
 
 ## **Datasets** 
 * Song Data: s3a://udacity-denanodegree/song_data 
-* Log Data: s3a://udacity-dend/log-data
+* Log Data: s3a://udacity-denanodegree/log-data
 
 ## **Schema**
 
